@@ -1,0 +1,34 @@
+ 
+
+Conceitos Basicos
+
+Essa primeira parte do livro vai ensinar os conceitos a respeito de reflexdo e me-
+tadados assim como 0 uso das APIs da linguagem Java para a utilizagdo desses re-
+cursos. A partir da leitura desses quatro primeiros capitulos, espera-se que o leitor
+obtenha familiaridade com o uso de reflexao na linguagem Java, sabendo como obter
+ manipular seus principais elementos, utilizando-os para desenvolver componentes
+reutilizveis em diferentes contextos.
+
+ 
+
+ 
+
+O capitulo 1 fala sobre as deficigncias da orientagao a objetos e faz uma introdu-
+‘40 a reflexdo computacional, mostrando seu poder através de um pequeno exem-
+plo, Ja 0 capitulo 2 entra em detalhes a respeito da API Reflection da linguagem Java,
+mostrando seus principais elementos e como podem ser utilizados. Em seguida, 0
+capitulo 3aborda a configura¢o demetadadosadicionais, falando sobre as diferentes
+alternativas para defini-los e entrando em detalhes sobre como as anotagbes funci-
+‘onam na linguagem Java. Finalizando essa primeira parte, o capitulo 4 fala sobre o
+recurso de proxies dinamicos, quais as formas de implementé-los ¢ como combiné
+los com as técnicas mostradas nos capitulos anteriores. No final de cada capitulo é
+apresentado um exemplo realista que aplica os conceitos apresentados.
+
+ 
+
+ 
+
+ 
+
+ 
+
